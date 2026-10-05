@@ -7,8 +7,9 @@ repository: "zbprimer"
 markdown: kramdown
 permalink: pretty
 plugins: []
-collections: []
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - .bundle
