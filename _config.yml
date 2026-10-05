@@ -1,0 +1,15 @@
+title: "Communication Theory for Everyday AI Problems"
+description: "A public-facing guide to communication theory for understanding communication challenges in the 21st century."
+url: "https://zachbranum.github.io"
+baseurl: "/zbprimer"
+github_username: "zachbranum"
+repository: "zbprimer"
+markdown: kramdown
+permalink: pretty
+plugins: []
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
