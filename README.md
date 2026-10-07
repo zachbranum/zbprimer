@@ -9,7 +9,7 @@ This repository contains a Jekyll site scaffold for a public-facing communicatio
 - Virginia Tech-inspired maroon/orange visual system
 - Home page and six required subpages
 - `images/` directory for media assets
-- GitHub Actions workflow to build the site on every push to `main`
+- GitHub Actions workflow to build and deploy the site on every push to `main`
 
 ## Project structure
 
@@ -47,6 +47,7 @@ This repository contains a Jekyll site scaffold for a public-facing communicatio
 
 - Workflow file: `.github/workflows/jekyll-build.yml`
 - Trigger: every commit pushed to `main` (plus manual dispatch)
+- Deploy target: GitHub Pages environment (`github-pages`)
 - Build command:
   ```bash
   bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
