@@ -10,10 +10,17 @@ description: "Welcome page for the communication theory project."
   <p>The writing on this site is intentionally modular and audience-focused so each page can stand alone while still contributing to a coherent framework.</p>
 </section>
 
-<section aria-labelledby="how-to-use-site">
-  <h2 id="how-to-use-site">How to use this site</h2>
-  <p>Start with the perspective that matches the communication problem you are facing, then compare interpretations across pages. Each framework provides a different diagnostic lens and suggests different practical actions.</p>
+<section aria-labelledby="Overview">
+  <h2 id="Overview">Overview</h2>
+  <p>Even though AI is still relatively new it has already had a massive effect on the way we did things before whether that be professionally, socially, and personally. One of the biggest changes that I have encountered and had to adapt to is how AI is being used in the job market. Companies today are always looking for new ways to use AI to speed up their processes and be more efficient. While AI may help with speed, sometimes the quality of the task can be below par. The job market has been the worst that it has ever been in recent time and companies are getting so many applications and resumes being sent in that they need to find a way to filter through them all. Many companies turned to AI to try and speed up the hiring process. Now whenever I or anyone else looking for a job submits their resume the odds are pretty high that AI is going to be the first one to see it. 
+
+We all know that AI is not perfect and it can’t interpret everything exactly like a human can, so when it gets these resumes in all different formats and various wording it's almost impossible to know what structure the AI system will like the most. In order to try and solve possible issues when it comes to bias and unequal opportunity in hiring through these AI agents the EEOC (Equal Employment Opportunity Commission) launched the Artificial Intelligence and Algorithmic Fairness Initiative to, “guide employers, employees, job applicants, and vendors in complying with the federal equal employment opportunity laws when using technology in hiring and other employment decisions.” (EEOC). It’s important to have these initiatives in place to try and prevent possible issues and if conflicts do arise with these new technologies and ways of doing things there are already plans set in place for how a company and applicant should handle it.
+</p>
 </section>
+
+## Sources
+
+U.S. Equal Employment Opportunity Commission. (2024). EEOC History: 2020-2024.https://www.eeoc.gov/history/eeoc-history-2020-2024
 
 <section aria-labelledby="site-map">
   <h2 id="site-map">Page map</h2>
