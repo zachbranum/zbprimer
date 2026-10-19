@@ -5,8 +5,8 @@ description: "Welcome page for the communication theory project."
 ---
 
 <section aria-labelledby="project-intro">
-  <h1 id="project-intro">Communication Theory for Everyday AI Problems</h1>
-  <p>This site introduces non-technical readers to major schools of communication theory and shows how they can clarify communication challenges in the AI era. The project goal is to make the commonplace visible: everyday misunderstandings, friction, and misalignment that become easier to diagnose when viewed through communication theory.</p>
+  <h1 id="project-intro">Communication Problems With AI Reviewing Resumes</h1>
+  <p>This site introduces knew AI technology used in the job application and hiring process for many companies. The goal is to make you aware of how the use of AI in the job market has changed the way employers review applicant and how applicants must adapt in order to give them the best shot at moving on in the process.</p>
   <p>The writing on this site is intentionally modular and audience-focused so each page can stand alone while still contributing to a coherent framework.</p>
 </section>
 
