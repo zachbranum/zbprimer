@@ -5,10 +5,9 @@ permalink: /pages/how-i-built-this-site/
 description: "Tooling and process notes for this Jekyll project."
 ---
 
-<section aria-labelledby="build-heading">
 # How I built this site
 
-<p id="build-heading">This page explains the implementation choices behind the project structure, layout, and publishing workflow.</p>
+This page explains the implementation choices behind the project structure, layout, and publishing workflow.
 
 <h2>Tool stack and structure</h2>
 <ul>
